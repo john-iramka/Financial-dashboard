@@ -13,7 +13,7 @@ A financial dashboard built using **React.js**, **Chart.js**, and **Vercel** for
 - ⚡ Fast deployment on **Vercel**  
 
 ## **🚀 Live Demo**  
-👉 **[View the Deployed App](https://your-vercel-url.vercel.app/)** *(Replace with your actual Vercel URL)*  
+👉 **[View the Deployed App](https://financial-dashboard-lyart-one.vercel.app/)** *(Replace with your actual Vercel URL)*  
 
 ## **🛠️ Setup Instructions**  
 
